@@ -103,7 +103,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+I've updated the README with your LinkedIn link. Here's the improved section:
+
+---
+
 ### 🌐 Connect with Me!
 - [GitHub Profile](https://github.com/TechWithAkash)  
-- [LinkedIn]((https://www.linkedin.com/in/akashvishwakarma2004/))  
+- [LinkedIn](https://www.linkedin.com/in/akashvishwakarma2004/)  
+
 
